@@ -4,7 +4,7 @@ function Header() {
 
   return (
     <div>
-      <h1>Calculator</h1>
+      <h1>REACT CALCULATOR</h1>
     </div>
   );
 }
